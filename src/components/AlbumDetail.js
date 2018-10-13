@@ -3,6 +3,7 @@ import {Text, View} from 'react-native';
 import Card from './Card'
 import CardSection from "./CardSection";
 
+
 const albumDetail = (props) => {
     return (
         <React.Fragment>
